@@ -5,10 +5,10 @@ El proyecto consta de un juego hecho en el motor grafico Unity con el aspecto de
 ## Integrantes del equipo:
 
 - Yikai Zhan
-- Pablo Martínez-Conde Albizu
 - Diego Ramírez Peinado
 - Carlos Mendoza Carpintero
 - Miguel Ángel Pascual Collar
+- Pablo Martínez-Conde Albizu
 - Uberto Alejandro Martínez Rodríguez
 
 ## Objetivos del trabajo:
