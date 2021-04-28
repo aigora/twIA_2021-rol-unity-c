@@ -1,4 +1,4 @@
 (Vamos a poner el progreso de esta forma mientras investigamos como vincular el archivo de unity a github (porque en unity hay una herramienta de colaboracion y estamos trabajando con ella)
 26/04/2021 Primera version del mapa, introducir carpetas con elementos graficos, organizacion y planificacion del trabajo en llamada grupal.
 27/04/2021 En unity hemos metido un personaje, y hemos conseguido, con visual, adjuntarle un codigo con el que controlarlo, aparte hemos solucionado varios errores y hemos seguido con el diseño grafico del mapa/escenario.
-28/04/2021 Introducidos colisionadores al personaje y el mapa. Pequeños retoques al propio mapa para que parezca que tiene mas vida. Introducidas las animaciones de desplazamiento y estaticas del personaje. Actualización del codigo del personaje.
+28/04/2021 Introducidos colisionadores al personaje y al mapa. Pequeños retoques al propio mapa para que parezca que tiene mas vida. Introducidas las animaciones de desplazamiento y estaticas del personaje. Actualización del codigo del personaje.
