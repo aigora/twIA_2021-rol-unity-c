@@ -1,4 +1,4 @@
-# [Nombre por decidir]
+# [Lerthos]
 
 El proyecto consta de un juego hecho en el motor grafico Unity con el aspecto del codigo desarrollado en c++, ademas, el juego contara con un mando propio para jugarlo. Sera un juego tipo MMO, con mapa y cosas tipicas del genero. En cuanto al mando/controlador, esta por decidir si se hace algun tipo de teclado casero o mando estilo consola. 
 
