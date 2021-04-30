@@ -7,21 +7,33 @@ public class Movement : MonoBehaviour
 
     public float speed = 4f;
     private Animator anim;
-    Rigidbody2D rb2d;
+    private Rigidbody2D rb2d;
     Vector2 mov;
 
+    public bool canMove;
 
+    public VectorValue startingPosition;//prueba para el cambio de escena
     // Start is called before the first frame update
     void Start()
     {
         gameObject.GetComponent<Transform>().position = new Vector3(-50, -2, 0);
         anim = GetComponent<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
+        
+        transform.position = startingPosition.initialValue;//prueba para el cambio de escena
     }
 
     // Update is called once per frame
     void Update()
     {
+
+        if (!canMove)
+        {
+            rb2d.velocity = Vector2.zero;
+            return;
+        }
+
+
         mov = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
         if (mov != Vector2.zero)
         {
@@ -33,6 +45,14 @@ public class Movement : MonoBehaviour
         {
             anim.SetBool("Walking", false);
         }
+        if (Input.GetKey(KeyCode.C))
+        {
+            anim.SetBool("Attacking", true);
+        }
+        else
+        {
+            anim.SetBool("Attacking", false);
+        }
     }
 
     void FixedUpdate ()
@@ -40,3 +60,4 @@ public class Movement : MonoBehaviour
         rb2d.MovePosition(rb2d.position + mov * speed * Time.deltaTime);
     }
 }
+
