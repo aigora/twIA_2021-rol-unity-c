@@ -26,14 +26,11 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
         if (!canMove)
         {
             rb2d.velocity = Vector2.zero;
             return;
         }
-
-
         mov = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
         if (mov != Vector2.zero)
         {
@@ -45,19 +42,22 @@ public class Movement : MonoBehaviour
         {
             anim.SetBool("Walking", false);
         }
-        if (Input.GetKey(KeyCode.C))
+        
+        if (Input.GetKey(KeyCode.C) && (mov == Vector2.zero))
         {
             anim.SetBool("Attacking", true);
+            AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
+            bool Attacking = stateInfo.IsName("Hero_Attack");
         }
         else
         {
             anim.SetBool("Attacking", false);
         }
     }
-
     void FixedUpdate ()
     {
         rb2d.MovePosition(rb2d.position + mov * speed * Time.deltaTime);
     }
 }
+
 
