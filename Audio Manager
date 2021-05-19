@@ -1,3 +1,5 @@
+//Primera version del controlador de audio, ya no se utiliza
+
 using UnityEngine.Audio;
 using UnityEngine;
 using System;
