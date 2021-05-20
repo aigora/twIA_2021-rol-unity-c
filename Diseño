@@ -41,7 +41,7 @@ En general es un proyecto bastante grande y no sabemos a dia de hoy si nos dara 
 
 Parte de Hardware:
 Se ha decidido que lo mejor es crear un mando con los botones necesarios para controlar el juego, y aparte se necesitara el raton para los menus (esto no esta planeado construirlo). 
-Dicha parte esta todavia en desarrollo, no se sabe como va el progreso todavia, pero se espera que este para la fecha de entrega. 
+Dicha parte esta todavia en desarrollo, no se sabe como va el progreso todavia, pero se espera que este para la fecha de entrega. Va a ser una placa arduino con siete teclas con cada uno una funcion dentro del juego.
 
 Comentario:
 Como la distribucion del trabajo se ha hecho por apartados, ya que a algunos no les iba unity, y otros no podian acceder ya que hay un numero limitado de personas que unity deja (de forma gratuita) acceder al proyecto, no tengo toda la informacion sobre los aspectos de diseño de cada elemento. Se ira escribiendo mas sobre el aspecto de diseño segun se progrese. Tambien se añadira alguna captura de pantalla sobre el entorno y las herramientas utilizadas.
