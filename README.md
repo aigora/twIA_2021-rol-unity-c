@@ -20,3 +20,8 @@ Crear un juego totalmente funcional con un mando diseñado por nosotros, el mand
 - El juego se basara en una corta historia, en la que nuestro objetivo es conseguir dinero para que nuestro personaje pueda vivir dentro de la zona del poblado. Para ello el jugador ha de ayudar a los npcs y cumplir misiones. Una vez obtenido el dinero suficiente, habra un npc en el pueblo que se ofrece a construirte la casa por una cantidad de dinero.
 - El juego contara con la opcion de pausarse, donde nos aparecera un menu con varias opciones, entre las que posiblemente agregaremos una opcion para guardar el progreso.
 Por ultimo, el juego contara con musica y sonidos y posiblemente añadiremos en el menu de pausa algun tipo de forma para modificar el volumen de esta.
+![GitHub1](https://user-images.githubusercontent.com/61047659/119157555-99305480-ba55-11eb-896d-3565dac1511a.png)
+![GitHub2](https://user-images.githubusercontent.com/61047659/119157575-9c2b4500-ba55-11eb-869c-b2aa456efe97.png)
+![GitHub3](https://user-images.githubusercontent.com/61047659/119157584-a0eff900-ba55-11eb-9895-c3e13821ad90.png)
+![GitHub4](https://user-images.githubusercontent.com/61047659/119157606-a64d4380-ba55-11eb-85cf-13ea10a0fe27.png)
+![GitHub5](https://user-images.githubusercontent.com/61047659/119157614-a8170700-ba55-11eb-91e5-26a77752cacb.png)
