@@ -39,6 +39,14 @@ Se esta pensando en si eliminar la parte de guardado de los aspectos finales del
 Aparte tambien hay que arreglar el que los npcs y mobs te puedan empujar. Esto, en ocasiones, causa que estos te empujen dentro de una casa y es algo molesto. Por ultimo, se querria dar algun toque decorativo y a ser posible mejorar los aspectos ya existentes, mas que crear otros nuevos, para que de una mayor sensacion de que es un juego pulido y de calidad. Y sin olvidarme de crear una opcion de subida de nivel, para dar una sensacion de avance.
 En general es un proyecto bastante grande y no sabemos a dia de hoy si nos dara tiempo a acabar todo para la fecha final, aparte de eso tenemos que ver si el hardware se acaba desarrollando o quien se encarga de ello, debido a que todavia esta sin hacer y no se sabe si hay avances ni nada.
 
+Avances y arreglos:
+-Creado una opcion de subida de nivel, que aumenta tu vida maxima y daño, los enemigos ahora dan experiencia (cada uno una cantidad diferente definida por una variable publica). 
+ Cada nivel requiere de una cantidad de experiencia distinta (definida por una cadena publica de numeros). 
+ Incluye una estadistica nueva para la defensa, pero esta por pensar como implementarla sin hacer que esto haga que los enemigos hagan poco daño.
+-Se ha animado a los aldeanos y creado prefabricables de estos mismos de forma que resulte mas rapido crearlos en el futuro.
+-Arreglado un bug que hacia que el personaje aumentase de tamaño al cambiar de escenas y al empezar partida.
+-Arreglado un error que salia en la consola de unity que indicaba que en el menu principal habia varios elementos que escuchaban sonido al mismo tiempo.
+
 Parte de Hardware:
 Se ha decidido que lo mejor es crear un mando con los botones necesarios para controlar el juego, y aparte se necesitara el raton para los menus (esto no esta planeado construirlo). 
 Dicha parte esta todavia en desarrollo, no se sabe como va el progreso todavia, pero se espera que este para la fecha de entrega. Va a ser una placa arduino con siete teclas con cada uno una funcion dentro del juego.
