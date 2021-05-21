@@ -23,6 +23,7 @@ Por ultimo, el juego contara con musica y sonidos y posiblemente añadiremos en 
 
 ## Entorno, diseño y funcionalidad:
 ![GitHub1](https://user-images.githubusercontent.com/61047659/119157555-99305480-ba55-11eb-896d-3565dac1511a.png)
+Modificacion de las animaciones activas dentro del entorno para un npc. Con los parametros MovX y MovY, que obtenemos del codigo que controla al propio npc, modificamos la animacion que se ejecuta.
 ![GitHub2](https://user-images.githubusercontent.com/61047659/119157575-9c2b4500-ba55-11eb-869c-b2aa456efe97.png)
 ![GitHub3](https://user-images.githubusercontent.com/61047659/119157584-a0eff900-ba55-11eb-9895-c3e13821ad90.png)
 ![GitHub4](https://user-images.githubusercontent.com/61047659/119157606-a64d4380-ba55-11eb-85cf-13ea10a0fe27.png)
