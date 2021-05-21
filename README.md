@@ -13,4 +13,10 @@ El proyecto consta de un juego hecho en el motor grafico Unity con el aspecto de
 
 ## Objetivos del trabajo:
 
-Crear un juego totalmente funcional con un mando diseñado por nosotros, el mando debe ser capaz de ejecutar todas las acciones que diseñemos para dicho juego, y el juego debe obedecer lo que nosotros queramos que este haga a traves de las acciones del mando. Por ahora queremos que el juego tenga movimiento, y dentro de un pequeño mapa tengamos varios objetivos para que el jugador cumpla, vaya consiguiendo recompensas, enfrentandose a enemigos, o hable con algun tipo de npc(non playable character), se añadira un inventario, algun tipo de historia de duracion indefinida ya que por ahora no sabemos cuanto nos llevara hacer todo lo que queremos hacer. Por ultimo se le añadira una funcion para guardar el progreso actual en el momento deseado. Si vemos que nos da tiempo a añadir mas cosas o se nos ocurre algo se añadira a dichos objetivos.
+Crear un juego totalmente funcional con un mando diseñado por nosotros, el mando debe ser capaz de ejecutar todas las acciones que diseñemos para dicho juego, y el juego debe obedecer lo que nosotros queramos que este haga a traves de las acciones del mando. 
+El juego contara con un personaje, el cual podremos mover por un mapa principal e incluso podremos cambiar a otros escenarios.
+Dentro del propio mapa habra varios npcs ("non playable character") los cuales nos daran unas misiones o recados para hacer, algunos incluso te recompensaran por ello.
+Aparte de los npcs, habra varios enemigos a los que nos podremos enfrentar.
+El juego se basara en una corta historia, en la que nuestro objetivo es conseguir dinero para que nuestro personaje pueda vivir dentro de la zona del poblado. Para ello el jugador ha de ayudar a los npcs y cumplir misiones. Una vez obtenido el dinero suficiente, habra un npc en el pueblo que se ofrece a construirte la casa por una cantidad de dinero.
+El juego contara con la opcion de pausarse, donde nos aparecera un menu con varias opciones, entre las que posiblemente agregaremos una opcion para guardar el progreso.
+Por ultimo, el juego contara con musica y sonidos y posiblemente añadiremos en el menu de pausa algun tipo de forma para modificar el volumen de esta.
