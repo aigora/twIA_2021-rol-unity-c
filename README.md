@@ -21,7 +21,7 @@ Crear un juego totalmente funcional con un mando diseñado por nosotros, el mand
 - El juego contara con la opcion de pausarse, donde nos aparecera un menu con varias opciones, entre las que posiblemente agregaremos una opcion para guardar el progreso.
 Por ultimo, el juego contara con musica y sonidos y posiblemente añadiremos en el menu de pausa algun tipo de forma para modificar el volumen de esta.
 
-## Entorno, diseño y funcionalidad
+## Entorno, diseño y funcionalidad:
 ![GitHub1](https://user-images.githubusercontent.com/61047659/119157555-99305480-ba55-11eb-896d-3565dac1511a.png)
 ![GitHub2](https://user-images.githubusercontent.com/61047659/119157575-9c2b4500-ba55-11eb-869c-b2aa456efe97.png)
 ![GitHub3](https://user-images.githubusercontent.com/61047659/119157584-a0eff900-ba55-11eb-9895-c3e13821ad90.png)
