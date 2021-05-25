@@ -1,5 +1,3 @@
-![Mando 1](https://user-images.githubusercontent.com/61047659/119541716-08c47d80-bd8f-11eb-8725-1dddbc4465f6.jpg)
-![Mando](https://user-images.githubusercontent.com/61047659/119541730-0bbf6e00-bd8f-11eb-8d3f-b3156d680050.jpg)
 # [Terraquia]
 
 El proyecto consta de un juego hecho en el motor grafico Unity con el aspecto del codigo desarrollado en c#, ademas, el juego contara con un mando propio para jugarlo. Sera un juego tipo MMO, con mapa y cosas tipicas del genero. En cuanto al mando/controlador, esta por decidir si se hace algun tipo de teclado casero o mando estilo consola. 
