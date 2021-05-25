@@ -40,10 +40,12 @@ En esta foto se puede observar que no hay errores en la consola de la aplicació
 
 ## Hardware
 Piezas utilizadas:
-- 
-- 
--
-- 
+- Modulo Arduino micro 5V
+- 10 pulsadores
+- 1 Protoboard
+- Juego de cables
+
 ![Mando](https://user-images.githubusercontent.com/61047659/119541756-12e67c00-bd8f-11eb-87a0-31d755800220.jpg)
 ![Mando 1](https://user-images.githubusercontent.com/61047659/119541748-111cb880-bd8f-11eb-8f71-aa117fce6d0c.jpg)
-
+![Mando 2](https://user-images.githubusercontent.com/61047659/119543873-6eb20480-bd91-11eb-920e-1b7961069fba.jpg)
+Importante que en placa y puerto ponga exactamente eso (nuestra placa y el puerto que hemos usado).
