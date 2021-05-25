@@ -1,4 +1,3 @@
-
 #include <Keyboard.h>
 const int Abuton=11;
 const int Wbuton=10;
@@ -7,12 +6,9 @@ const int Dbuton=8;
 const int Fbuton=7;
 const int Cbuton=6;
 const int Entbuton=5;
-const int FPS = 60;
 void Butonscontrol(int abuton,int wbuton,int sbuton,int dbuton,int fbuton,int cbuton,int entbuton);
-
-
 void setup() {
- Serial.begin(100000);
+ Serial.begin(115200);
  pinMode(Abuton, INPUT_PULLUP);
  pinMode(Wbuton, INPUT_PULLUP);
  pinMode(Sbuton, INPUT_PULLUP);
@@ -25,8 +21,8 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  Butonscontrol(Abuton, Wbuton, Sbuton, Dbuton,Fbuton,Cbuton,Encbuton);
-    delay(1000/FPS);
+  Butonscontrol(Abuton, Wbuton, Sbuton, Dbuton,Fbuton,Cbuton,Entbuton);
+    delay(10000);
 }
 void Butonscontrol(int abuton,int wbuton,int sbuton,int dbuton,int fbuton,int cbuton,int entbuton){
   if(!digitalRead(wbuton)){
@@ -34,53 +30,42 @@ void Butonscontrol(int abuton,int wbuton,int sbuton,int dbuton,int fbuton,int cb
     //Keyboard.print('w');
     //Keyboard.write('w');
   } 
-  
-  else{
+    else{
     Keyboard.release('w');
-  }
-  
+  } 
   if(!digitalRead(abuton)){
     Keyboard.press('a');
     //Keyboard.write('a');
   }
-  else{
+    else{
     Keyboard.release('a');
   }
-  
   if(!digitalRead(sbuton)){
     Keyboard.press('s');
     //Keyboard.write('s');
   }
-  else{
+    else{
     Keyboard.release('s');
   }
-
   if(!digitalRead(dbuton)){
     Keyboard.press('d');
     //Keyboard.write('d');
   }
-  else{
+    else{
     Keyboard.release('d');
   }
+  
   if(!digitalRead(cbuton)){
     Keyboard.press('c');
     //Keyboard.write('c');
   }
-  else{
+    else{
     Keyboard.release('c');
   }
-  if(!digitalRead(fbuton)){
+ if(!digitalRead(fbuton)){
     Keyboard.press('f');
     //Keyboard.write('f');
   }
-  else{
+    else{
     Keyboard.release('f');
-  }
-  if(!digitalRead(escbuton)){
-    Keyboard.press('\n');
-    //Keyboard.write('\n');
-  }
-  else{
-    Keyboard.release('\n');
-  }
-}
+  }}
