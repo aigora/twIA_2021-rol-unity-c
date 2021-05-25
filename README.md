@@ -54,5 +54,5 @@ Importante que en placa y puerto ponga exactamente eso (nuestra placa y el puert
 https://user-images.githubusercontent.com/61047659/119556791-b9d31400-bd9f-11eb-805a-1ca7995df1c3.mp4
 
 
-El mando funciona como se puede observar (se ha probado con la primera version funcional que se entrego en su momento), todos los controles salvo el escape estan integrados, este ultimo no esta debido a que la biblioteca keyboard solo deja teclas que imprimen cosas en pantalla.
+El mando funciona como se puede observar (se ha probado con la primera version funcional que se entrego en su momento), todos los controles salvo el escape y el enter estan integrados, este ultimo no esta debido a que la biblioteca keyboard solo deja teclas que imprimen cosas en pantalla.
 
