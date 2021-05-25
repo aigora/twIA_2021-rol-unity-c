@@ -51,5 +51,6 @@ Piezas utilizadas:
 Importante que en placa y puerto ponga exactamente eso (nuestra placa y el puerto que hemos usado).
 
 https://user-images.githubusercontent.com/61047659/119556369-34e7fa80-bd9f-11eb-82fc-6a46b5911061.mp4
+
 El mando funciona como se puede observar (se ha probado con la primera version funcional que se entrego en su momento), todos los controles salvo el escape estan integrados, este ultimo no esta debido a que la biblioteca keyboard solo deja teclas que imprimen cosas en pantalla.
 
