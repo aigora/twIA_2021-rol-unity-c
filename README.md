@@ -38,6 +38,11 @@ Creada una funcion dentro del juego que se encarga de recoger y administrar dine
 Desarrollando un boss para el juego y creando las animaciones. Tambien cuenta con un sonido personalizado de ataque. Se ha seguido el mismo proceso (mas o menos) que haciendo a los demas enemigos, aunque para encontrar los "sprites" de este ha habido que usar unas herramientas de edicion de imagen debido a que en el paquete original en el que venia se veia bastante pixelado, y con las herramientas que nos proporcionaba unity no conseguiamos subirle la calidad lo suficiente como para que se viese decentemente.
 ![GitHub8](https://user-images.githubusercontent.com/61047659/119543044-83da6380-bd90-11eb-8d59-94b9d1599f40.png)
 Se ha agregado un menu de pausa, principal y de opciones. El de opciones cuenta con cambio de resolucion, personalizacion del volumen del juego y modo pantalla completa. Dentro del editor no podemos comprobar si esto funciona bien, pero como no da errores asumo que funciona, antes de la entrega se verificara el funcionamiento. Aparte de estos menus, se ha agregado una opcion de carga y guardado de progreso, pero esta por arreglar, ya que al cambiar de escena esto da errores. Se ha creado unas misiones nuevas para que el jugador cuente con un objetivo final, y se esta por implementar una que te cree una casa a cambio de parte de tu dinero. Por ultimo cabe resaltar que al entrar al juego desde el menu principal estamos teniendo un problema con el cambio de escena, que por motivos desconocidos se desconfigura y todos los puntos de salida se unen en uno solo (casa numero 2), esta por arreglar.
+
+El enlace del vídeo explicativo de los aspectos generales del proyecto:
+
+https://drive.google.com/file/d/1BG80LMzm8fiqRuZnmeNy88Nv9osSdbef/view?usp=sharing
+
 ## Hardware
 Piezas utilizadas:
 - Modulo Arduino micro 5V
@@ -55,7 +60,3 @@ https://user-images.githubusercontent.com/61047659/119556791-b9d31400-bd9f-11eb-
 
 
 El mando funciona como se puede observar (se ha probado con la primera version funcional que se entrego en su momento), todos los controles salvo el escape y el enter estan integrados, este ultimo no esta debido a que la biblioteca keyboard solo deja teclas que imprimen cosas en pantalla.
-
-El enlace del vídeo explicativo de los aspectos generales del proyecto:
-
-https://drive.google.com/file/d/1BG80LMzm8fiqRuZnmeNy88Nv9osSdbef/view?usp=sharing
