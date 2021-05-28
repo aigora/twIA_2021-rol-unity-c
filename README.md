@@ -39,6 +39,8 @@ Desarrollando un boss para el juego y creando las animaciones. Tambien cuenta co
 ![GitHub8](https://user-images.githubusercontent.com/61047659/119543044-83da6380-bd90-11eb-8d59-94b9d1599f40.png)
 Se ha agregado un menu de pausa, principal y de opciones. El de opciones cuenta con cambio de resolucion, personalizacion del volumen del juego y modo pantalla completa. Dentro del editor no podemos comprobar si esto funciona bien, pero como no da errores asumo que funciona, antes de la entrega se verificara el funcionamiento. Aparte de estos menus, se ha agregado una opcion de carga y guardado de progreso, pero esta por arreglar, ya que al cambiar de escena esto da errores. Se ha creado unas misiones nuevas para que el jugador cuente con un objetivo final, y se esta por implementar una que te cree una casa a cambio de parte de tu dinero. Por ultimo cabe resaltar que al entrar al juego desde el menu principal estamos teniendo un problema con el cambio de escena, que por motivos desconocidos se desconfigura y todos los puntos de salida se unen en uno solo (casa numero 2), esta por arreglar.
 
+Todos los bugs estan arreglados en la version final, pero el reescalado de la barra de vida no funciona bien del todo, se mantiene en su sitio, pero no en la esquina superior, y no conseguimos arreglarlo.
+
 El enlace del vídeo explicativo de los aspectos generales del proyecto:
 
 https://drive.google.com/file/d/1BG80LMzm8fiqRuZnmeNy88Nv9osSdbef/view?usp=sharing
