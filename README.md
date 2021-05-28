@@ -56,3 +56,6 @@ https://user-images.githubusercontent.com/61047659/119556791-b9d31400-bd9f-11eb-
 
 El mando funciona como se puede observar (se ha probado con la primera version funcional que se entrego en su momento), todos los controles salvo el escape y el enter estan integrados, este ultimo no esta debido a que la biblioteca keyboard solo deja teclas que imprimen cosas en pantalla.
 
+El enlace del vídeo explicativo de los aspectos generales del proyecto:
+
+https://drive.google.com/file/d/1BG80LMzm8fiqRuZnmeNy88Nv9osSdbef/view?usp=sharing
