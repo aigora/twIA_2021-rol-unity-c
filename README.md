@@ -43,6 +43,8 @@ Todos los bugs estan arreglados en la version final, pero el reescalado de la ba
 
 En total se han hecho 525 versiones dentro de Unity, con la herramienta collaborate. 
 
+## Video Funcionamiento del Juego
+
 El enlace del vídeo explicativo de los aspectos generales del proyecto:
 
 https://drive.google.com/file/d/1BG80LMzm8fiqRuZnmeNy88Nv9osSdbef/view?usp=sharing
@@ -59,6 +61,7 @@ Piezas utilizadas:
 ![Mando 2](https://user-images.githubusercontent.com/61047659/119543873-6eb20480-bd91-11eb-920e-1b7961069fba.jpg)
 Importante que en placa y puerto ponga exactamente eso (nuestra placa y el puerto que hemos usado).
 
+## Video Funcionamiento del Hardware
 
 https://user-images.githubusercontent.com/61047659/119556791-b9d31400-bd9f-11eb-805a-1ca7995df1c3.mp4
 
