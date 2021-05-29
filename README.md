@@ -41,6 +41,8 @@ Se ha agregado un menu de pausa, principal y de opciones. El de opciones cuenta 
 
 Todos los bugs estan arreglados en la version final, pero el reescalado de la barra de vida no funciona bien del todo, se mantiene en su sitio, pero no en la esquina superior, y no conseguimos arreglarlo.
 
+En total se han hecho 525 versiones dentro de Unity, con la herramienta collaborate. 
+
 El enlace del vídeo explicativo de los aspectos generales del proyecto:
 
 https://drive.google.com/file/d/1BG80LMzm8fiqRuZnmeNy88Nv9osSdbef/view?usp=sharing
